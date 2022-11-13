@@ -20,7 +20,6 @@
 ### // Projects Web Javascript 💻. 
 ##### · [Disruptive Land / Web3](https://disruptiveland.io/) |---| [Disruptive Land | DASHBOARD | Web3](https://disruptiveland.io/backoffice/dashboard)
 ##### · [Crypto Aliens / Web3](https://cryptoalienclub.io/)
-##### · [Biosafe / Web.](#)
 
 ---
 
