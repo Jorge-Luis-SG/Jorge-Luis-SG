@@ -10,15 +10,15 @@
 ---
 
 ### // Projects Angular 💻. 
-##### · [Vi-ain / Web3](https://vi-ain.com/) --- [Vi-ain | DASHBOARD | Web3](https://vi-ain.com/dashboard)
-##### · [Billies / Web3](https://billieswknd.io/) --- [Billies | MINT | Web3](https://billieswknd.io/mint)
+##### · [Vi-ain / Web3](https://vi-ain.com/) |---| [Vi-ain | DASHBOARD | Web3](https://vi-ain.com/dashboard)
+##### · [Billies / Web3](https://billieswknd.io/) |---| [Billies | MINT | Web3](https://billieswknd.io/mint)
 ##### · [Vality / Web3](https://valityweb2022.web.app/)
 ##### · [Mest / Web3](https://mest.live/pages/home)
 
 
 
 ### // Projects Web Javascript 💻. 
-##### · [Disruptive Land / Web3](https://disruptiveland.io/) --- [Disruptive Land | DASHBOARD | Web3](https://disruptiveland.io/backoffice/dashboard)
+##### · [Disruptive Land / Web3](https://disruptiveland.io/) |---| [Disruptive Land | DASHBOARD | Web3](https://disruptiveland.io/backoffice/dashboard)
 ##### · [Crypto Aliens / Web3](https://cryptoalienclub.io/)
 ##### · [Biosafe / Web.](#)
 
