@@ -11,7 +11,7 @@
 
 ### // Projects Angular 💻. 
 
-##### · [Vi-ain / Web3](src="https://vi-ain.com/") ##### [Vi-ain | DASHBOARD | Web3]("https://vi-ain.com/dashboard")
+##### · [Vi-ain / Web3](https://vi-ain.com/) ##### [Vi-ain | DASHBOARD | Web3]("https://vi-ain.com/dashboard")
 ##### · [Billies / Web3]("https://billieswknd.io/") ##### [Vi-ain | MINT | Web3]("https://vi-ain.com/dashboard")
 ##### · [Vality / Web3]("https://valityweb2022.web.app/")
 ##### · [Mest / Web3]("https://mest.live/pages/home")
