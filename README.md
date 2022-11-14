@@ -5,7 +5,7 @@
 
 ---
 
-##### ❤️💜💛I love Javascript & Python💛💜❤️
+##### ❤️💛I love Javascript & Python💛❤️
 
 ---
 
