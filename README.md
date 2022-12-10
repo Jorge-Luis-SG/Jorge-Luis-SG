@@ -11,6 +11,7 @@
 
 ### // Projects Angular 💻. 
 ##### · [Vi-ain / Web3](https://vi-ain.com/) |---| [Vi-ain | DASHBOARD | Web3](https://vi-ain.com/dashboard)
+##### · [Hellzel / Web3](https://desarrollo-hellzel.web.app/)
 ##### · [Billies / Web3](https://billieswknd.io/) |---| [Billies | MINT | Web3](https://billieswknd.io/mint)
 ##### · [Vality / Web3](https://valityweb2022.web.app/)
 ##### · [Mest / Web3](https://mest.live/pages/home)
