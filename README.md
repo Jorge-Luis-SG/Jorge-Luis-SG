@@ -5,24 +5,21 @@
 
 ---
 
-##### ❤️💛I love Javascript & Python💛❤️
+##### ❤️💛 I love Angular 💛❤️
 
 ---
 
-### // Projects Angular 💻. 
-##### · [Vi-ain / Web3](https://vi-ain.com/) |---| [Vi-ain | DASHBOARD | Web3](https://vi-ain.com/dashboard)
-##### · [Hellzel / Web3](https://desarrollo-hellzel.web.app/)
-##### · [Billies / Web3](https://billieswknd.io/) |---| [Billies | MINT | Web3](https://billieswknd.io/mint)
-##### · [Vality / Web3](https://valityweb2022.web.app/)
-##### · [Mest / Web3](https://mest.live/pages/home)
+### // Angular Projects 💻. 
+##### · [Hellzels] | ( https://desarrollo-hellzel.web.app/ )  
+##### · [Billies Creators] | ( https://billiescreators.com/ )
+##### · [Vi-ain] | ( https://vi-ain-cb2b0.web.app/ )
+##### · [GGLOUD] | ( https://gloudtest-757ae.web.app/ )
+##### · [Nutso Studio] ( https://nutsodev.web.app/ )
+##### · [Big Labs] | ( https://biglabsdev.web.app/ )
+##### · [Billies] | ( https://billies-57f99.web.app/ )
+##### · [Big Labs] | ( https://valityweb2022.web.app/ )
+##### · [Adverse] | ( Comming soon )
 
-
-
-### // Projects Web Javascript 💻. 
-##### · [Disruptive Land / Web3](https://disruptiveland.io/) |---| [Disruptive Land | DASHBOARD | Web3](https://disruptiveland.io/backoffice/dashboard)
-##### · [Crypto Aliens / Web3](https://cryptoalienclub.io/)
-
----
 
 ### // LET'S CONNECT!
 
