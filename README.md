@@ -7,14 +7,14 @@
 
 My tech stack is:
 
-HTML5
-CSS | SCSS
-Bootstrap | Tailwind
-Javascript | Typescript
-JQuery
-Angular
-MongoDB
-Node.js | Express
+- HTML5
+- CSS | SCSS
+- Bootstrap | Tailwind
+- Javascript | Typescript
+- JQuery
+- Angular
+- MongoDB
+- Node.js | Express
 
 ---
 
