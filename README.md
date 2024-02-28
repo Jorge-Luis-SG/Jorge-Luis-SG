@@ -10,15 +10,15 @@
 ---
 
 ### // Angular Projects 💻. 
-##### · [Hellzels] | ( https://desarrollo-hellzel.web.app/ )  
-##### · [Billies Creators] | ( https://billiescreators.com/ )
-##### · [Vi-ain] | ( https://vi-ain-cb2b0.web.app/ )
-##### · [GGLOUD] | ( https://gloudtest-757ae.web.app/ )
-##### · [Nutso Studio] ( https://nutsodev.web.app/ )
-##### · [Big Labs] | ( https://biglabsdev.web.app/ )
-##### · [Billies] | ( https://billies-57f99.web.app/ )
-##### · [Big Labs] | ( https://valityweb2022.web.app/ )
-##### · [Adverse] | ( Comming soon )
+##### · [Billies Creators] | Full Stack  ( https://billiescreators.com/ )
+##### · [Adverse] | Front-end ( https://adverse-desarrollo.web.app/ )
+##### · [Hellzels] | Front-end ( https://hellzelsmind.web.app/ )  
+##### · [Vi-ain] | Front-end ( https://vi-ain-cb2b0.web.app/ )
+##### · [Nutso Studio] Front-end ( https://nutsodev.web.app/ )
+##### · [GGLOUD] | Front-end ( https://gloudtest-757ae.web.app/ )
+##### · [Big Labs] | Front-end ( https://biglabsdev.web.app/ )
+##### · [Billies] | Front-end ( https://billies-57f99.web.app/ )
+##### · [Big Labs] | Front-end ( https://valityweb2022.web.app/ )
 
 
 
