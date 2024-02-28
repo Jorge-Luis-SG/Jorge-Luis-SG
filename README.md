@@ -15,6 +15,7 @@ My tech stack is:
 - Angular
 - MongoDB
 - Node.js | Express
+- Firebase
 
 ---
 
@@ -25,9 +26,9 @@ My tech stack is:
 ##### · [Vi-ain] | Front-end ( https://vi-ain-cb2b0.web.app/ )
 ##### · [Nutso Studio] Front-end ( https://nutsodev.web.app/ )
 ##### · [GGLOUD] | Front-end ( https://gloudtest-757ae.web.app/ )
-##### · [Big Labs] | Front-end ( https://biglabsdev.web.app/ )
+##### · [Vality] | Front-end ( https://valityweb2022.web.app/ )
 ##### · [Billies] | Front-end ( https://billies-57f99.web.app/ )
-##### · [Big Labs] | Front-end ( https://valityweb2022.web.app/ )
+##### · [Big Labs] | Front-end ( https://biglabsdev.web.app/ )
 
 
 
