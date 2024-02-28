@@ -1,6 +1,6 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
 ## My name is Jorge Perez😶
-### Front-end web developer in Angular | Full Stack developer in process...
+### Front-end web developer in Angular
 <code>"With great code comes great responsibility"</code>
 
 ---
