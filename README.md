@@ -1,39 +1,39 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
 ## My name is Jorge Perez😶
-### Front-end web developer in Angular
-<code>"With great code comes great responsibility"</code>
+### Full Stack Developer
+<code>"My portfolio is https://jorge-luis-sg.web.app"</code>
+
 
 ---
 
 My tech stack is:
 
-- HTML5
-- CSS | SCSS
+- Angular | React | Next.js
+- HTML5 | CSS3 | SCSS
 - Bootstrap | Tailwind
 - Javascript | Typescript
 - JQuery
-- Angular
-- MongoDB
 - Node.js | Express
+- MongoDB | Prisma
+- MySql & SQL
+- PHP
+- Wordpress
 - Firebase
 
 ---
 
-### // Angular Projects 💻. 
+### // Top 5 Proyects in Angular 💻. 
 ##### · [Billies Creators] | Full Stack  ( https://billiescreators.com/ )
 ##### · [Adverse] | Front-end ( https://adverse-desarrollo.web.app/ )
 ##### · [Hellzels] | Front-end ( https://hellzelsmind.web.app/ )  
-##### · [Vi-ain] | Front-end ( https://vi-ain-cb2b0.web.app/ )
 ##### · [Nutso Studio] Front-end ( https://nutsodev.web.app/ )
-##### · [GGLOUD] | Front-end ( https://gloudtest-757ae.web.app/ )
-##### · [Vality] | Front-end ( https://valityweb2022.web.app/ )
-##### · [Billies] | Front-end ( https://billies-57f99.web.app/ )
-##### · [Big Labs] | Front-end ( https://biglabsdev.web.app/ )
+##### · [Vi-ain] | Front-end ( https://vi-ain-cb2b0.web.app/ )
 
+### // Proyects in Next 💻. 
 
+##### · [Bridge Markets] | Front-end & Payment gateway ( https://bridge-uw2l.vercel.app/es/ )
 
 ### // LET'S CONNECT!
 
 [<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>]( https://www.facebook.com/JorgeLuisSG987 ) &nbsp; &nbsp;
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img>](#) &nbsp; &nbsp;
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img>](https://www.linkedin.com/in/jorge-luis-perez-12b1b9231/) &nbsp; &nbsp;
