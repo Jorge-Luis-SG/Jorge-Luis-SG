@@ -1,5 +1,5 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
-## My name is Jorge Perez😶
+## My name is Jorge Pérez🌎
 ### Full Stack Developer
 <code>"My portfolio is https://jorge-luis-sg.web.app"</code>
 
@@ -22,16 +22,17 @@ My tech stack is:
 
 ---
 
-### // Top 5 Proyects in Angular 💻. 
+### // Top 5 projects in Angular 💻. 
 ##### · [Billies Creators] | Full Stack  ( https://billiescreators.com/ )
 ##### · [Adverse] | Front-end ( https://adverse-desarrollo.web.app/ )
 ##### · [Hellzels] | Front-end ( https://hellzelsmind.web.app/ )  
 ##### · [Nutso Studio] Front-end ( https://nutsodev.web.app/ )
 ##### · [Vi-ain] | Front-end ( https://vi-ain-cb2b0.web.app/ )
 
-### // Proyects in Next 💻. 
 
+### // Projects in Next js 💻. 
 ##### · [Bridge Markets] | Front-end & Payment gateway ( https://bridge-uw2l.vercel.app/es/ )
+
 
 ### // LET'S CONNECT!
 
