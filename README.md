@@ -33,7 +33,7 @@ My tech stack is:
 ### // Projects in Next js 💻. 
 ##### · [Bridge Markets] | Front-end & Payment gateway ( https://bridge-uw2l.vercel.app/es/ )
 
-
+---
 ### // LET'S CONNECT!
 
 [<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>]( https://www.facebook.com/JorgeLuisSG987 ) &nbsp; &nbsp;
